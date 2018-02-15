@@ -1,0 +1,10 @@
+numpy==1.14.2
+Pillow==5.0.0
+pkg-resources==0.0.0
+PyAutoGUI==0.9.36
+PyMsgBox==1.0.6
+PyScreeze==0.1.14
+python3-xlib==0.15
+PyTweening==1.0.3
+six==1.11.0
+xlib==0.21
