@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/B%C3%A9zier_curve
 
 ### Simple Example:
 ```
-from humanclicker import HumanClicker
+from pyclick import HumanClicker
 
 # initialize HumanClicker object
 hc = HumanClicker()
