@@ -16,8 +16,8 @@ hc.move((100,100),2)
 # mouse click(left button)
 hc.click()
 ```
-You can also customize the mouse curve by passing a HumanCurve to HumanClicker. You can control the the
+You can also customize the mouse curve by passing a HumanCurve to HumanClicker. You can control:
 - number of internal knots, to change the overall shape of the curve,
-- distortion to simulate shivering
+- distortion to simulate shivering,
 - tween to simulate acceleration and speed of movement
 
